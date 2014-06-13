@@ -1,6 +1,4 @@
-Dichtefunktionen
-================
+probability-density-functions
+====================
 
-Exponential- und Normalverteilung mit grafischer Ausgabe in Python 2.7
-
-nutzt matplotlib
+exponential distribution and normal distribution with graphical output using matplotlib
